@@ -11,11 +11,6 @@
                   Users
               </a>
           </li>
-          <li role="presentation">
-              <a href="<?php echo base_url.'grns' ?>">
-                  GRN
-              </a>
-          </li>
       </ul>
   </div>
 </div>

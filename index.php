@@ -1,14 +1,10 @@
 <?php
 
 //requiring external files
-require ('libs/Model.php');
-require ('libs/Controller.php');
-require ('libs/Handler.php');
-require ('libs/View.php');
-require ('libs/Session.php');
+require('bootstrap/autoload.php');
 
 //defining static paths
-define('base_url', 'http://localhost/final/');
+define('base_url', 'http://localhost/SimplePHPMVC/');
 
 /**
  * Staring the application by managin the URLs
